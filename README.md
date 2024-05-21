@@ -94,7 +94,7 @@ Check the wiring and ensure the LED is properly connected to the specified GPIO 
 
 ## License
 
-This project is open-source and available under the MIT License. Feel free to modify and distribute.
+This project is open-source and available under the GNU GLP V3. Feel free to modify and distribute.
 
 ## Acknowledgments
 
