@@ -41,7 +41,7 @@ Go to `Sketch > Include Library > Manage Libraries`, search for and install the 
 - Click the Upload button.
 
 ## Connection Diagram
-<img src="AUTOMATIC-SCHOOL-BELL/bell.jpg">
+<img src="bell.jpg">
 
 
 ## Code Explanation
