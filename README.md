@@ -40,6 +40,10 @@ Go to `Sketch > Include Library > Manage Libraries`, search for and install the 
 - Select the appropriate board and port under `Tools`.
 - Click the Upload button.
 
+## Connection Diagram
+<img src="AUTOMATIC-SCHOOL-BELL/bell.jpg">
+
+
 ## Code Explanation
 
 The code performs the following functions:
